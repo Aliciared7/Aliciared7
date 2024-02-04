@@ -1,4 +1,4 @@
-<img src="./assets/github-header-image.png>
+<img src="./assets/github-header-image2.png>
 
 # <h1 align=center>Hola, Soy Alicia 👋</h1>
 
