@@ -1,3 +1,5 @@
+<img src="./assets/github-header-image.png>
+
 # <h1 align=center>Hola, Soy Alicia 👋</h1>
 
 ## Sobre mí ℹ
