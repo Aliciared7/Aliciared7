@@ -6,7 +6,7 @@
 
 - 🎓 Cursando un Bootcamp de Desarrollo Web Full Stack en Factoría F5, aprendiendo lo necesario para convertirme en una desarrolladora profesional.
    
-- 🚀 Con mi experiencia más allá del desarrollo web he adquirido habilidades blandas muy valiosas. Disfruto colaborando con personas apasionadas, contribuyendo al éxito conjunto en cada proyecto.
+- 🚀 Disfruto colaborando con personas apasionadas, contribuyendo al éxito conjunto en cada proyecto.
 
 - ⚡ Me encanta la historia de la Humanidad y la tecnología es una herramienta que puede ayudar a mejorar el mundo, y quiero ser parte de ese cambio.
 - 👨‍💻 Mi portfolio está en construcción. Aquí puedes ver un avance: 
