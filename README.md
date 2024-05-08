@@ -4,12 +4,12 @@
 
 ## Sobre mí ℹ
 
-- 🎓 Cursando un Bootcamp de Desarrollo Web Full Stack en Factoría F5, aprendiendo lo necesario para convertirme en una desarrolladora profesional.
+- 🎓 Desarrolladora Web Full Stack en Factoría F5,  aprendiendo siempre para convertirme en una desarrolladora profesional.
    
 - 🚀 Disfruto colaborando con personas apasionadas, contribuyendo al éxito conjunto en cada proyecto.
 
 - ⚡ Me encanta la historia de la Humanidad y la tecnología es una herramienta que puede ayudar a mejorar el mundo, y quiero ser parte de ese cambio.
-- 👨‍💻 Mi portfolio está en construcción. Aquí puedes ver un avance: 
+- 👨‍💻 Mi portfolio está en aún en construcción.  
 - 📫 Contáctame:
  <br></br> aliciared7@gmail.com <a href="https://linkedin.com/in/aliciared7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aliciaredondo" height="30" width="40" /></a> <a href="https://discord.gg/aliciared7">
     <img align="center" alt="Discord" title="Discord" height="40" width="40" src="https://cdn.simpleicons.org/discord"></a>
